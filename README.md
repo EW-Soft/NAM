@@ -4,7 +4,9 @@ Espacio de trabajo destinado al proyecto de desarrollo de videojuego en 2D ÑAMA
 ESTRUCTURA A COMPLETAR:
 
 Título e imagen de portada;
+
 ![image](https://github.com/EW-Soft/NAM/assets/66846834/8e4648f9-fb13-446d-ac10-7a3b80ac3dd7)
+
 ¡Bienvenido a Ñamandu, un juego emocionante en desarrollo!
 Actualmente, el proyecto se encuentra en sus primeras etapas, y estamos entusiasmados por compartir nuestro viaje contigo.
 A continuación, te proporcionamos una visión general de nuestro progreso hasta ahora:
