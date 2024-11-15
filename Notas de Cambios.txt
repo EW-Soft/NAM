@@ -1,0 +1,16 @@
+Carpetas:
+ - Cambio de rama: HUD (carpeta) de Mapa (carpeta) a Tipos de Objetos (carpeta)
+
+VIDA-Sprite
+ - Cambio de nombre: HUD -> VidaHUD
+ - Cambio de Velocidad de Animacion: 5 -> 12
+ - Cambio de Comportamento: Agregado el Comportamiento "Tween" (interpolacion)
+
+Nuevos Parametros:
+ - Jugador: Vida: Animation-hearts
+	- Sistema [Condicion]: Accionar solo una vez por cada cambio de sprite por la vida
+	- Al cambiar de sprite, dependiendo de la vida, la opacidad cambia al 100%
+	- Al pasar 5 segundos despues de cambiar el sprite, la opacidad cambia al 50%
+
+NOTAS ADICIONALES:
+No estoy muy seguro de la implementación de "Tween" (interpolación) a la animación del HUD de vida, especialmente al momento de intentar curarse podría generar algún problema futuro.
